@@ -12,14 +12,14 @@
   transition: filter 300ms;
 }
 
-/* .input_box{
+.input_box{
   border: '1px solid black';
  
   border-radius: '4px';
   padding: '8px';
  
   margin-right: '8px';
-} */
+}
 
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
